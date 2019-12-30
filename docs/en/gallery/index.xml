@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galleries on Project Kratos</title>
-    <link>https://examplesite.com/en/gallery/</link>
+    <link>https://akash1306.github.io/kratosbitsgoa/en/gallery/</link>
     <description>Recent content in Galleries on Project Kratos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://examplesite.com/en/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://akash1306.github.io/kratosbitsgoa/en/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Activities</title>
-      <link>https://examplesite.com/en/gallery/activities/</link>
+      <link>https://akash1306.github.io/kratosbitsgoa/en/gallery/activities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/en/gallery/activities/</guid>
+      <guid>https://akash1306.github.io/kratosbitsgoa/en/gallery/activities/</guid>
       <description>Various activities undertaken by our project members.</description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>https://examplesite.com/en/gallery/design/</link>
+      <link>https://akash1306.github.io/kratosbitsgoa/en/gallery/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/en/gallery/design/</guid>
+      <guid>https://akash1306.github.io/kratosbitsgoa/en/gallery/design/</guid>
       <description>The design and optimization of the Rover and the software.</description>
     </item>
     
     <item>
       <title>Manufacturing</title>
-      <link>https://examplesite.com/en/gallery/manufacturing/</link>
+      <link>https://akash1306.github.io/kratosbitsgoa/en/gallery/manufacturing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/en/gallery/manufacturing/</guid>
+      <guid>https://akash1306.github.io/kratosbitsgoa/en/gallery/manufacturing/</guid>
       <description>The manufacturing and integration of the rover components.</description>
     </item>
     

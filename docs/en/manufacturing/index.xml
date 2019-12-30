@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manufacturings on Project Kratos</title>
-    <link>https://examplesite.com/en/manufacturing/</link>
+    <link>https://akash1306.github.io/kratosbitsgoa/en/manufacturing/</link>
     <description>Recent content in Manufacturings on Project Kratos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://examplesite.com/en/manufacturing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://akash1306.github.io/kratosbitsgoa/en/manufacturing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>five</title>
-      <link>https://examplesite.com/en/manufacturing/five/</link>
+      <link>https://akash1306.github.io/kratosbitsgoa/en/manufacturing/five/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/en/manufacturing/five/</guid>
+      <guid>https://akash1306.github.io/kratosbitsgoa/en/manufacturing/five/</guid>
       <description>Maching the shafts for Rover&#39;s Suspension.</description>
     </item>
     
     <item>
       <title>seven</title>
-      <link>https://examplesite.com/en/manufacturing/seven/</link>
+      <link>https://akash1306.github.io/kratosbitsgoa/en/manufacturing/seven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/en/manufacturing/seven/</guid>
+      <guid>https://akash1306.github.io/kratosbitsgoa/en/manufacturing/seven/</guid>
       <description>Powering up the Rover prototype.</description>
     </item>
     

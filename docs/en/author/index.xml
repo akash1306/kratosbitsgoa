@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Project Kratos</title>
-    <link>https://examplesite.com/en/author/</link>
+    <link>https://akash1306.github.io/kratosbitsgoa/en/author/</link>
     <description>Recent content in Authors on Project Kratos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://examplesite.com/en/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://akash1306.github.io/kratosbitsgoa/en/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Akash Chaudhary</title>
-      <link>https://examplesite.com/en/author/akash-chaudhary/</link>
+      <link>https://akash1306.github.io/kratosbitsgoa/en/author/akash-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/en/author/akash-chaudhary/</guid>
+      <guid>https://akash1306.github.io/kratosbitsgoa/en/author/akash-chaudhary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John Doe</title>
-      <link>https://examplesite.com/en/author/john-doe/</link>
+      <link>https://akash1306.github.io/kratosbitsgoa/en/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/en/author/john-doe/</guid>
+      <guid>https://akash1306.github.io/kratosbitsgoa/en/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>https://examplesite.com/en/author/mark-dinn/</link>
+      <link>https://akash1306.github.io/kratosbitsgoa/en/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/en/author/mark-dinn/</guid>
+      <guid>https://akash1306.github.io/kratosbitsgoa/en/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
     
