@@ -1,0 +1,8 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_Image : "images/backgrounds/bg-1.png"
+  title : "Want to support us?"
+  content : "Click on the button to learn more"
+  button:
+    enable : true

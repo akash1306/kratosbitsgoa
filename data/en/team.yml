@@ -1,0 +1,98 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_Member2:
+    # team member loop
+    - image2 : images/team/MD.png
+      name2 : Mihir Dharmadhikari
+      designation2 : Controls Lead
+      content2 : 
+      social_Icon2 :
+        - icon2 : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link2 : "https://www.linkedin.com/in/mihir-dharmadhikari"
+        - icon2 : ti-email # themify icon pack : https://themify.me/themify-icons
+          link2 : "mailto:f20160616@goa.bits-pilani.ac.in"
+        - icon2 : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link2 : "https://www.facebook.com/mihir.dharmadhikari"
+
+    # team member loop
+    - image2 : images/team/Vast.png
+      name2 : Shreyas Vastrad
+      designation2 : Power Systems Lead
+      content2 : 
+      social_Icon2 :
+        - icon2 : ti-email # themify icon pack : https://themify.me/themify-icons
+          link2 : "mailto:shreyasvastrad72@gmail.com"
+        - icon2 : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link2 : "https://www.facebook.com/shreyasvastrad"
+
+    # team member loop
+    - image2 : images/team/KB.png
+      name2 : Krishnam Bajaj
+      designation2 : Communications Lead
+      content2 : 
+      social_Icon2 :
+        - icon2 : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link2 : "https://www.linkedin.com/in/krishnam-bajaj-74a006137"
+        - icon2 : ti-email # themify icon pack : https://themify.me/themify-icons
+          link2 : "mailto:f20160528@goa.bits-pilani.ac.in"
+        - icon2 : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link2 : "https://www.facebook.com/krishnam.bajaj.9"
+
+  team_Member1:
+    # team member loop   
+    - image1 : images/team/ak.png
+      name1 : Akash Chaudhary
+      designation1 : Team Lead / Founder
+      content1 :
+      social_Icon1 :
+        - icon1 : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link1 : "https://www.linkedin.com/in/akash1306"
+        - icon1 : ti-email # themify icon pack : https://themify.me/themify-icons
+          link1 : "mailto:akash.chaudhary1306@gmail.com"
+        - icon1 : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link1 : "https://www.facebook.com/akashwolf13"
+        
+  team_Member :
+
+    # team member loop
+    - image : images/team/Dev1.png
+      name : Devanshu Wakhale
+      designation : Mechanical Lead
+      content : 
+      social_Icon :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/devanshu-wakhale-6607b2190"
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:dwakhale1803@gmail.com"
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/debu1803"
+        
+    # team member loop
+    - image : images/team/venu.png
+      name : Venugopalan Iyengar
+      designation : Autonomous Lead
+      content : 
+      social_Icon :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/venugopalan-iyengar-598a75192"
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:iyengarvenugopalan@gmail.com"
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/venugopalan.iyengar.3"
+        
+    # team member loop
+    - image : images/team/KA.png
+      name : Ankit Kumar
+      designation : Science Lead
+      content :
+      social_Icon :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/ankit-kumar-5bba3a12a"
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:ankitk9723@gmail.com"
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/Ankitk97"
+
+    

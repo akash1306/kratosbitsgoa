@@ -1,0 +1,33 @@
+- id: blogTitle
+  translation: Latest Post
+- id: readMore
+  translation: Read more
+- id: viewAllPost
+  translation: View All Post
+- id: learnmore
+  translation: Learn More
+- id: share
+  translation: Share
+- id: aboutAuthor
+  translation: About author
+- id: authorsPosts
+  translation: Author's posts
+- id: viewgallery
+  translation: Go to Gallery
+- id: galTitle
+  translation: Gallery
+- id: copyright
+  translation: Credits - [Themefisher](https://www.themefisher.com/)
+- id: copyright1
+  translation: copyright &copy; 2019  [Project Kratos]()
+- id: teammem
+  translation: Team Members
+- id: team2020
+  translation: Team 2020
+- id: team2021
+  translation: Team 2021
+- id: allmem
+  translation: See All Members
+- id: allpic
+  translation: See All Photos
+

@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Kratos</title>
+    <link>https://examplesite.com/en/</link>
+    <description>Recent content on Project Kratos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Dec 2019 12:52:36 +0600</lastBuildDate>
+    
+	<atom:link href="https://examplesite.com/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sugar Essential for Life</title>
+      <link>https://examplesite.com/en/blog/simple-blog-post-6/</link>
+      <pubDate>Sun, 29 Dec 2019 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/en/blog/simple-blog-post-6/</guid>
+      <description>We have always wondered how life on other planets would be like. How do the look like?</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://examplesite.com/en/blog/are-you-doing-the-right-way/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://examplesite.com/en/blog/are-you-doing-the-right-way/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://examplesite.com/en/blog/simple-blog-post-1/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/en/blog/simple-blog-post-1/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://examplesite.com/en/blog/simple-blog-post-2/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/en/blog/simple-blog-post-2/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://examplesite.com/en/blog/simple-blog-post-3/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/en/blog/simple-blog-post-3/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://examplesite.com/en/blog/simple-blog-post-4/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/en/blog/simple-blog-post-4/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://examplesite.com/en/blog/simple-blog-post-5/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/en/blog/simple-blog-post-5/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://examplesite.com/en/blog/simple-blog-post/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/en/blog/simple-blog-post/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Test1</title>
+      <link>https://examplesite.com/en/team2021/test1/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/en/team2021/test1/</guid>
+      <description>Test1 Sub-system</description>
+    </item>
+    
+    <item>
+      <title>Activities</title>
+      <link>https://examplesite.com/en/gallery/activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/gallery/activities/</guid>
+      <description>Various activities undertaken by our project members.</description>
+    </item>
+    
+    <item>
+      <title>Aditya Kapoor</title>
+      <link>https://examplesite.com/en/team2020/kapoor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/kapoor/</guid>
+      <description>Autonomous Sub-System | B.E. Computer Science</description>
+    </item>
+    
+    <item>
+      <title>Akanksha Sahoo</title>
+      <link>https://examplesite.com/en/team2020/akanksha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/akanksha/</guid>
+      <description>Mechanical Sub-System |
+B.E. Electronics &amp;amp; Instruementation</description>
+    </item>
+    
+    <item>
+      <title>Akash Chaudhary</title>
+      <link>https://examplesite.com/en/author/akash-chaudhary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/author/akash-chaudhary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Akash Chaudhary</title>
+      <link>https://examplesite.com/en/team2020/akash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/akash/</guid>
+      <description>Team Lead | B.E Electrical and Electronics | M.Sc Physics</description>
+    </item>
+    
+    <item>
+      <title>Anant Garg</title>
+      <link>https://examplesite.com/en/team2020/anant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/anant/</guid>
+      <description>Mechanical Sub-System | B.E. Mechanical Engineering</description>
+    </item>
+    
+    <item>
+      <title>Ankit Kumar</title>
+      <link>https://examplesite.com/en/team2020/ankit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/ankit/</guid>
+      <description>Science Sub-System | B.E. Chemical | M.Sc Physics</description>
+    </item>
+    
+    <item>
+      <title>Ankush Sharma</title>
+      <link>https://examplesite.com/en/team2020/ankush/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/ankush/</guid>
+      <description>Power Sub-System | B.E. Electronics and Communications | M.Sc Physics</description>
+    </item>
+    
+    <item>
+      <title>Aviral Bajpai</title>
+      <link>https://examplesite.com/en/team2020/aviral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/aviral/</guid>
+      <description>Science Sub-System | B.E. Mechanical | M.Sc Biology</description>
+    </item>
+    
+    <item>
+      <title>Ayush Agrawal</title>
+      <link>https://examplesite.com/en/team2020/ayush/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/ayush/</guid>
+      <description>Autonomous Sub-System | B.E. Computer Science</description>
+    </item>
+    
+    <item>
+      <title>Chinmay Gokhale</title>
+      <link>https://examplesite.com/en/team2020/chinmay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/chinmay/</guid>
+      <description>Data &amp;amp; Logistics | Marketing &amp;amp; PR | B.E. Mechanical</description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://examplesite.com/en/gallery/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/gallery/design/</guid>
+      <description>The design and optimization of the Rover and the software.</description>
+    </item>
+    
+    <item>
+      <title>Devanshu Wakhale</title>
+      <link>https://examplesite.com/en/team2020/devanshu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/devanshu/</guid>
+      <description>Mechanical Sub-System | B.E. Mechanical Engineering</description>
+    </item>
+    
+    <item>
+      <title>Devesh Dimble</title>
+      <link>https://examplesite.com/en/team2020/devesh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/devesh/</guid>
+      <description>Mechanical Sub-System | B.E. Mechanical | M.Sc Mathematics</description>
+    </item>
+    
+    <item>
+      <title>five</title>
+      <link>https://examplesite.com/en/manufacturing/five/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/manufacturing/five/</guid>
+      <description>Maching the shafts for Rover&#39;s Suspension.</description>
+    </item>
+    
+    <item>
+      <title>Harshal Deshpande</title>
+      <link>https://examplesite.com/en/team2020/harshal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/harshal/</guid>
+      <description>Control Sub-System | B.E. Electrical and Electronics</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://examplesite.com/en/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>Krishnam Bajaj</title>
+      <link>https://examplesite.com/en/team2020/krishnam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/krishnam/</guid>
+      <description>Communication Sub-System | B.E. Electronics and Communication | M.Sc Chemistry</description>
+    </item>
+    
+    <item>
+      <title>Manufacturing</title>
+      <link>https://examplesite.com/en/gallery/manufacturing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/gallery/manufacturing/</guid>
+      <description>The manufacturing and integration of the rover components.</description>
+    </item>
+    
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://examplesite.com/en/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>Mihir Dharmadhikari</title>
+      <link>https://examplesite.com/en/team2020/mihir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/mihir/</guid>
+      <description>Control Sub-System | B.E. Electronics and Instruementations</description>
+    </item>
+    
+    <item>
+      <title>Ojit Mehta</title>
+      <link>https://examplesite.com/en/team2020/ojit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/ojit/</guid>
+      <description>Autonomous Sub-System | B.E. Electrical and Electronics</description>
+    </item>
+    
+    <item>
+      <title>one</title>
+      <link>https://examplesite.com/en/activities/one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/activities/one/</guid>
+      <description>The power system presenting infront of the Sandbox Commitee</description>
+    </item>
+    
+    <item>
+      <title>Pranay Mathur</title>
+      <link>https://examplesite.com/en/team2020/pranay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/pranay/</guid>
+      <description>Communication Sub-System | B.E. Electronics and Instruementations</description>
+    </item>
+    
+    <item>
+      <title>Prathmesh Thorwe</title>
+      <link>https://examplesite.com/en/team2020/prathamesh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/prathamesh/</guid>
+      <description>Control Sub-System | B.E. Electronics and Communications</description>
+    </item>
+    
+    <item>
+      <title>Recruitment</title>
+      <link>https://examplesite.com/en/activities/eight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/activities/eight/</guid>
+      <description>Recruitment Process for the Kratos 2021 Team.</description>
+    </item>
+    
+    <item>
+      <title>Recruitment</title>
+      <link>https://examplesite.com/en/design/six/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/design/six/</guid>
+      <description>Optimization of the suspension design.</description>
+    </item>
+    
+    <item>
+      <title>Saarthak Modi</title>
+      <link>https://examplesite.com/en/team2020/saarthak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/saarthak/</guid>
+      <description>Communication Sub-System | B.E. Electrical and Electronics</description>
+    </item>
+    
+    <item>
+      <title>Samridh Deva</title>
+      <link>https://examplesite.com/en/team2020/samridh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/samridh/</guid>
+      <description>Power Sub-System | B.E. Electrical and Electronics | M.Sc Physics</description>
+    </item>
+    
+    <item>
+      <title>seven</title>
+      <link>https://examplesite.com/en/manufacturing/seven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/manufacturing/seven/</guid>
+      <description>Powering up the Rover prototype.</description>
+    </item>
+    
+    <item>
+      <title>Shirin Kaushik</title>
+      <link>https://examplesite.com/en/team2020/shirin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/shirin/</guid>
+      <description>Communication Sub-System | B.E. Electronics and Communications</description>
+    </item>
+    
+    <item>
+      <title>Shreyas Vastrad</title>
+      <link>https://examplesite.com/en/team2020/shreyas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/shreyas/</guid>
+      <description>Power Sub-System | B.E. Electronics and Communications | M.Sc Physics</description>
+    </item>
+    
+    <item>
+      <title>Siddhesh Dalvi</title>
+      <link>https://examplesite.com/en/team2020/siddhesh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/siddhesh/</guid>
+      <description>Power Sub-System | B.E. Electrical and Electronics</description>
+    </item>
+    
+    <item>
+      <title>Support Us</title>
+      <link>https://examplesite.com/en/sponsor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/sponsor/</guid>
+      <description>Sponsor Us Sponsoring a team like us goes a long way in ensuring the Corporate Social Responsibility for your company.</description>
+    </item>
+    
+    <item>
+      <title>Team 2020</title>
+      <link>https://examplesite.com/en/teammembers/team-2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/teammembers/team-2020/</guid>
+      <description>This is the 2020 Kratos Team.</description>
+    </item>
+    
+    <item>
+      <title>Team 2021</title>
+      <link>https://examplesite.com/en/teammembers/team-2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/teammembers/team-2021/</guid>
+      <description>This is the 2021 Kratos Team.</description>
+    </item>
+    
+    <item>
+      <title>Team 2022</title>
+      <link>https://examplesite.com/en/teammembers/team-2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/teammembers/team-2022/</guid>
+      <description>Recruitment for 2022 Team will start soon.</description>
+    </item>
+    
+    <item>
+      <title>Test2</title>
+      <link>https://examplesite.com/en/team2021/test2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2021/test2/</guid>
+      <description>Test2 Sub-system</description>
+    </item>
+    
+    <item>
+      <title>three</title>
+      <link>https://examplesite.com/en/activities/three/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/activities/three/</guid>
+      <description>Display of the rover prototype to the Sandbox Commitee</description>
+    </item>
+    
+    <item>
+      <title>Venugopalan Iyengar</title>
+      <link>https://examplesite.com/en/team2020/venu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/venu/</guid>
+      <description>Autonomous Sub-System | B.E. Mechanical | M.Sc Physics</description>
+    </item>
+    
+    <item>
+      <title>Vidit Parab</title>
+      <link>https://examplesite.com/en/team2020/vidit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/team2020/vidit/</guid>
+      <description>Mechanical Sub-System |
+B.E. Electronics &amp;amp; Instruementation | M.Sc Mathematics</description>
+    </item>
+    
+    <item>
+      <title>z</title>
+      <link>https://examplesite.com/en/activities/four/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/activities/four/</guid>
+      <description>Interacting with School Students to spread awareness about STEm Careers.</description>
+    </item>
+    
+    <item>
+      <title>ZedHawk</title>
+      <link>https://examplesite.com/en/design/two/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/en/design/two/</guid>
+      <description>Designing the ZedHawk bot to test the autonomous algorithms.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  title: Our Mentor
+  bg_Image : images/backgrounds/bg-2.png
+  testimonial_Item :
+    # testimonial item loop
+    - name : Dr. Toby Joseph
+      image : images/team/toby.png
+      date : 
+      content : Facutly Co-ordinator | Assistant Professor
+      content1: Department of Physics
+      content2: Birla Institute of Technology and Science – Pilani K. K. Birla Goa Campus

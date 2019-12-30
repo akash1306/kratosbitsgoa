@@ -1,0 +1,62 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Photo Gallery
+  filter_List :
+    - filter_Type : design
+      filter_Title : Design
+      
+    - filter_Type : manu
+      filter_Title : Manufacturing
+      
+    - filter_Type : acti
+      filter_Title : Activities
+
+  portfolio_Item :
+    - types : ["acti"]
+      image : images/portfolio/one.png
+      URL : #
+      title : 
+      content : 
+      
+    - types : ["design"]
+      image : images/portfolio/two.png
+      URL : #
+      title : 
+      content : 
+      
+    - types : ["acti"]
+      image : images/portfolio/three.png
+      URL : #
+      title : 
+      content :
+      
+    - types : ["acti"]
+      image : images/portfolio/four.png
+      URL : #
+      title : 
+      content :
+      
+    - types : ["manu"]
+      image : images/portfolio/five.png
+      URL : #
+      title : 
+      content : 
+      
+    - types : ["design"]
+      image : images/portfolio/six.png
+      URL : #
+      title : 
+      content : 
+      
+    - types : ["manu"]
+      image : images/portfolio/seven.png
+      URL : #
+      title : 
+      content : 
+      
+    - types : ["acti"]
+      image : images/portfolio/eight.png
+      URL : #
+      title :
+      content :

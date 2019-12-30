@@ -1,0 +1,28 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Sub-Systems
+  service_Item :
+    - icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+      title : Mechanical
+      content : Responsible for the design and manufactuing of the Rover's body.
+      
+    - icon : ti-plug # themify icon pack : https://themify.me/themify-icons
+      title : Electronics
+      content : Control, Communication and Power. They make the Rover move. 
+      
+    - icon : ti-vector # themify icon pack : https://themify.me/themify-icons
+      title : Autonomous
+      content : Controller not available? Our rover can move on its own thanks to them.
+      
+    - icon : ti-filter # themify icon pack : https://themify.me/themify-icons
+      title : Science
+      content : They develop the on-board life detection systems to fuel their search for alien life. 
+      
+    - icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      title : Data & Logistics
+      content : From managing the assets to managing the documentation, this team does it all. 
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      title : Marketing & PR
+      content : Can you see us? No? Then they will make sure that you do. 

@@ -1,0 +1,6 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_Image : "images/backgrounds/bg-1.jpg"
+  title : "Our Sponsors"
+  content : "Hello"

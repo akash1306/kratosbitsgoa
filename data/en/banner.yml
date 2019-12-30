@@ -1,0 +1,11 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_Image : "images/slider/background.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "This is Project Kratos"
+  content : "We Aim. We Work. We Succeed."
+  button:
+    enable : true
+    label : "Explore"
+    link : "#about"

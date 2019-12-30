@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Our Mission
+  about_Item :
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : STEM
+    content : As students, it is our duty to take steps in the development of science and technology. By doing various projects and involving the community, by teaching them and us, we aim to achieve something new, something big. This team consists of students from various academic backgrounds, and this mix is the perfect combination for the development of new ideas. We aim to keep up our effort to raise awareness aboout the importance of STEM and students' role in its progress.                         
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : IRC 2020
+    content : The Indian Rover Challenge is an annual competition held by the Mars Society South Asia. It features a challenge to engage students worldwide in robotics and space exploration. It aims to ignite and encourage the spirit of innovation amongst budding engineers as they set on a quest to build a space exploration rover, using their skills and ideas. The third edition of the Indian Rover Challenge will be held during January 17-20, 2020, at the Vellore Institute of Technology (VIT) Chennai, Tamil Nadu, India.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : URC 2020
+    content : University Rover Challenge is an annual competition held by the Mars Society, in the desert of southern Utah in the United States. URC challenges student teams to design and build the next generation of Mars rovers that will one day work alongside astronauts exploring the Red Planet. URC was launched in 2006, with competitions being held every summer since 2007. The competition has 4 tasks, namely Science task, Extreme Retrieval, and Delivery task, Equipment Servicing task and Autonomous Traversal task

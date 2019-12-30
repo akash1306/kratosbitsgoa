@@ -1,0 +1,17 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : 
+  form_Action: "https://formspree.io/mdoawoql" #contact form works with https://formspree.io
+
+  contact_Details :
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "BITS Pilani K.K. Birla Goa Campus, NH 17B, Bypass Road, Zuarinagar, Sancoale, Goa 403726"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +91 7038745209"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: kratosbitsgoa@gmail.com"

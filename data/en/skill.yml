@@ -1,0 +1,13 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Supporters
+  subtitle : 
+  content : 
+  bg_Image : images/backgrounds/bg-3.png
+  image : images/about/solidworks1.png
+  image1 : images/about/ansys1.png
+  image2 : images/about/cteq.png
+  image4 : images/about/sandboxq.png
+  image3 : images/about/Physocq.png
+  image5 : images/about/bits.png
